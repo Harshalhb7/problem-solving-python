@@ -1,4 +1,4 @@
-##Python Problem Solving Repository
+## Python Problem Solving Repository
 This repository contains a collection of Python programs focused on improving problem-solving and algorithmic thinking.
 The solutions cover fundamental programming concepts and commonly asked coding problems that help strengthen logical reasoning and coding skills.
 
